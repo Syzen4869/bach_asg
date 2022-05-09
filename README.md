@@ -1,3 +1,3 @@
-# bach_homework
+# bach_asg
 
-just a website for improving mah front-end coding skills
+just a project for improving mah front-end coding skills
